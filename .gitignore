@@ -1,0 +1,12 @@
+dataset/
+output.csv
+code.zip
+code-review.zip
+__pycache__/
+**/__pycache__/
+*.py[cod]
+log.txt
+evidence_audit.txt
+evidence_hits.txt
+code/evaluation/sample_predictions.csv
+code/evaluation/sample_error_analysis.md
